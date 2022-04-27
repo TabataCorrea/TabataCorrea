@@ -13,7 +13,7 @@ Tecnologias que possuo conhecimento:
     <img align= "center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align= "center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align= "center" alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <a href="https://picrew.me/image_maker/338224/complete?cd=u5OiP5065p" target="_blank"><img src="https://picrew.me/image_maker/338224/complete?cd=u5OiP5065p" target="_blank"></a> 
+  <a href="https://picrew.me/image_maker/338224/complete?cd=u5OiP5065p" target="_blank"><img src="//img/GIF%20Tábata.png"></a> 
 </div><br/>
 
 Sou bolsista no curso de desenvolvimento de software, com foco no desenvolvimento Fullstack Java, React e Cloud, em uma parceria do Grupo Carrefour Brasil com a DIO.me
