@@ -14,4 +14,4 @@ Olá, sou a Tábata Correa, futura desenvolvedora Fullstack! 😊
   <img align= "center" alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div><br/>
 
-Sou bolsista no curso de desenvolvimento de software, com foco no desenvolvimento Fullstack Java, React e Cloud, em uma parceria do Grupo Carrefour Brasil com a DIO.me
+Sou bolsista em um curso com foco no desenvolvimento fullstack java, react e cloud. Uma parceria do Grupo Carrefour Brasil com a DIO.me!
