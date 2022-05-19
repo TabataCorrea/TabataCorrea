@@ -14,4 +14,6 @@ Tecnologias que possuo conhecimento:
   <img align= "center" alt="amazonaws" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
 </div><br/>
 
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
 
